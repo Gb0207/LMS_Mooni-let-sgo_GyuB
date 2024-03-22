@@ -9,6 +9,7 @@
 ![캡처_2024_03_12_10_57_09_842](https://github.com/Gb0207/let-sgo/assets/153247782/a94f56bc-7c65-4a80-8dcf-12fde7ce8cff)
 
 시작화면
+
 ![캡처_2024_03_13_12_42_34_988](https://github.com/Gb0207/let-sgo/assets/153247782/73b269b2-03bc-4b28-b8a5-db9009eeab1e)
 ![캡처_2024_03_13_12_42_25_73](https://github.com/Gb0207/let-sgo/assets/153247782/e40d8446-792c-41a9-8226-245800b75044)
 
